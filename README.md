@@ -1,7 +1,9 @@
-##Sobre o Projeto
+#Sobre o Projeto
+
 Esse site foi feito para gerar senhas seguras, de 5 a 15 caracteres, zelando pela segurança da sua conta.
 
-##Tecnologias usadas
+#Tecnologias usadas
+
 /CSS 3 /HTML 5 /JavaScript
 
 📸
